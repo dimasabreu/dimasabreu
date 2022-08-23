@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Dimas Abreu!
 
-🔭 1º ano Sistemas para Internet
-🔭 1º ano Jogos Digitais
-🔭 2º ano Investigação Particular
-🌱 Desenvolvedor PYTHON
-🔥 Back-End
+- :telescope: 1º ano Sistemas para Internet
+- :telescope: 1º ano Jogos Digitais
+- :telescope: 2º ano Investigação Particular
+- :seedling: Desenvolvedor PYTHON
+- :fire: Back-End
 
 
 <div align="center">
