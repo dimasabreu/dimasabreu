@@ -32,5 +32,10 @@
 <a href="https://git.io/streak-stats">
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=dimasabreu&theme=chartreuse-dark"/>
 </div>
+
+<div align = "center">
   
 ![snake gif](https://github.com/dimasabreu/dimasabreu/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+  
