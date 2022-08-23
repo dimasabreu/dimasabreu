@@ -1,6 +1,6 @@
 ## Eaaai
 
-- Estou estudando Pythone e game dev
+- Estou estudando Python e game dev
 
 
 <div align="center">
