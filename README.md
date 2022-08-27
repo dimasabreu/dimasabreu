@@ -32,11 +32,8 @@
 
 <div align = "center">
   
- 
-
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dimasabreu&theme=highcontrast)](https://git.io/streak-stats)
   
 </div>
-
 
   
