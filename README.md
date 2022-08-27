@@ -1,12 +1,20 @@
-## Olá! Eu sou o Dimas Abreu!
+# Olá, me chamo [Dimas Abreu](https://www.linkedin.com/in/dimasdeabreu/)
 
 - :telescope: 1º ano Sistemas para Internet
 - :telescope: 1º ano Jogos Digitais
 - :telescope: 2º ano Investigação Particular
 - :seedling: Desenvolvedor PYTHON
 - :fire: Back-End
+<div align='center'>
+  <h2>
+    <a
+    target="_blank"
+    style="text-decoration: none"
+    href="https://github.com/dimasabreu?tab=stars"
+    >Acesse meus repositórios</a>
+  </h2>
+</div>
 
-##
 
 <div align="center">
   <a href="https://github.com/dimasabreu">
@@ -30,9 +38,5 @@
   
 </div>
 
-<div align = "center">
-  
-  
-  
-</div>
+
   
