@@ -4,7 +4,6 @@
 - :telescope: 1º ano Jogos Digitais
 - :telescope: 2º ano Investigação Particular
 - :seedling: Desenvolvedor PYTHON
-- :fire: Back-End
 - :seedling: Desenvolvedor de jogos
 
 <div align='center'>
