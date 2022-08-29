@@ -1,10 +1,11 @@
 # Olá, me chamo [Dimas Abreu](https://www.linkedin.com/in/dimasdeabreu/)
 
-- :telescope: 1º ano Sistemas para Internet
-- :telescope: 1º ano Jogos Digitais
-- :telescope: 2º ano Investigação Particular
-- :seedling: Desenvolvedor PYTHON
-- :seedling: Desenvolvedor de jogos
+- 🔭  1º ano Sistemas para Internet
+- 🔭  1º ano Jogos Digitais
+- 🔭  2º ano Investigação Particular
+- 🌱 Desenvolvedor PYTHON
+- 🌱 Desenvolvedor de jogos
+- 📫 dimasabreu@live.com
 
 <div align='center'>
   <h2>
