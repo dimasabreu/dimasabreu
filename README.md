@@ -40,9 +40,7 @@
 
 <div align="center">
 
-  ## Site porfolio:
-  
-   <a href="http://dimasabreu.pythonanywhere.com/"><img src="https://github.com/dimasabreu/dimasabreu/blob/main/img/um.png" height="50"></a>
+  ## Meu site Portfolio: [Dimas Abreu](http://dimasabreu.pythonanywhere.com)
    
    
  </div>
