@@ -40,11 +40,9 @@
 
 <div align="center">
 
-  ## Eu estou pensando em um numero você consegue adivinhar qual é?
+  ## Site porfolio:
   
-   <a href="http://dimasabreu.pythonanywhere.com/?=1"><img src="https://github.com/dimasabreu/dimasabreu/blob/main/img/um.png" height="50"></a>
-   <a href="http://dimasabreu.pythonanywhere.com/?=2"><img src="https://github.com/dimasabreu/dimasabreu/blob/main/img/2.png" height="50"></a>
-   <a href="http://dimasabreu.pythonanywhere.com/?=3"><img src="https://github.com/dimasabreu/dimasabreu/blob/main/img/3.png" height="50"></a>
-   <a href="http://dimasabreu.pythonanywhere.com/?=4"><img src="https://github.com/dimasabreu/dimasabreu/blob/main/img/4.png" height="50"></a>
+   <a href="http://dimasabreu.pythonanywhere.com/"><img src="https://github.com/dimasabreu/dimasabreu/blob/main/img/um.png" height="50"></a>
+   
    
  </div>
