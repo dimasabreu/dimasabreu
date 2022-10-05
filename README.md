@@ -23,7 +23,8 @@
   
   <div align = "center">
   
-  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimasabreu&theme=vision-friendly-dark&show_icons=true)
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasabreu&layout=compact&langs_count=168&theme=vision-friendly-dark"/>
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dimasabreu&theme=highcontrast)](https://git.io/streak-stats)
   
 </div>
