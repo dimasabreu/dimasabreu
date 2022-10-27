@@ -1,17 +1,17 @@
 
 <div align='center'>
   <h1>
-     Olá, me chamo <a href="https://www.linkedin.com/in/dimasdeabreu/">Dimas Abreu</a>
+     hi, My name is <a href="https://www.linkedin.com/in/dimasdeabreu/">Dimas Abreu</a>
   </h1>
 </div>
 
 <div align="center">
 
-| **Formação Acadêmica**     | **Desenvolvedor PYTHON**     | **Desenvolvedor de jogos** | **Contato**
+| **Academic Formation**     | **PYTHON Desenveloper**     | **GAME Desenveloper** | **Contact**
 | ------------- | :-------------: | :--------:   | :---------: 
-| 1º Ano Jogos Digitais | <a href="http://dimasabreu.pythonanywhere.com">Portfolio Python</a>        | <a href="https://dimasabreu.itch.io">Portfolio Unity</a>   | <a href="https://www.linkedin.com/in/dimasdeabreu/">LinkedIn</a> 
-| 1º Ano Sistemas para Internet |        |<a href="https://dimasabreu.itch.io">Portfolio Unreal</a> | dimasabreu@live.com
-| 2º Ano Investigação Particular |       |<a href="https://gx.games/pt-br/studios/9a29a6c2-ddfa-488b-a95e-4b85035efa2c/">Portfolio GameMaker</a> 
+| 1º Year Digital Game Developer | <a href="http://dimasabreu.pythonanywhere.com">Portfolio Python</a>        | <a href="https://dimasabreu.itch.io">Portfolio Unity</a>   | <a href="https://www.linkedin.com/in/dimasdeabreu/">LinkedIn</a> 
+| 1º Year Systems for internet|        |<a href="https://dimasabreu.itch.io">Portfolio Unreal</a> | dimasabreu@live.com
+| 2º Year Criminal investigation |       |<a href="https://gx.games/pt-br/studios/9a29a6c2-ddfa-488b-a95e-4b85035efa2c/">Portfolio GameMaker</a> 
 
 </div>
 
