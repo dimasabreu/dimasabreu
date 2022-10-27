@@ -7,7 +7,7 @@
 
 <div align="center">
 
-| **Academic Formation**     | **PYTHON Desenveloper**     | **GAME Desenveloper** | **Contact**
+| **Academic Formation**     | **PYTHON Developer**     | **GAME Developer** | **Contact**
 | ------------- | :-------------: | :--------:   | :---------: 
 | 1º Year Digital Game Developer | <a href="http://dimasabreu.pythonanywhere.com">Portfolio Python</a>        | <a href="https://dimasabreu.itch.io">Portfolio Unity</a>   | <a href="https://www.linkedin.com/in/dimasdeabreu/">LinkedIn</a> 
 | 1º Year Systems for internet|        |<a href="https://dimasabreu.itch.io">Portfolio Unreal</a> | dimasabreu@live.com
